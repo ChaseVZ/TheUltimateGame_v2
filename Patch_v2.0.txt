@@ -1,0 +1,21 @@
+Patch 2.0
+
+COMPLETED
+moved store text
+updated store textures
+
+TODO
+
+<< Features >>
+add sky background
+changed store bmps
+win screen (make sure it works) + option to reset
+limit walk input
+limit shoot input
+Game over screen + option to reset
+
+<< Bugs >>
+megaman sprite appears behind arrow drawing
+laser still has collision issues (change mechanic?)
+on lose screen, megaman can still shoot
+megaman can run over his own lasers
